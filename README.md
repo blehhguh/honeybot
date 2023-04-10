@@ -1,4 +1,3 @@
 # honeybot
-honeybot 
-
-ASS
+a node js project.
+discord bot.
