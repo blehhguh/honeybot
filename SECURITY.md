@@ -1,1 +1,1 @@
-go listen to cupcakke
+Email coconutstatus@courvix.com for security issues.
